@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @shrija-jha
 I am a web developer and dancer. I love developing pages, reading, writing and speaking.
-
 As a web developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-
 That's why I like to make things that make a difference.
-
-GIF
 
 Talking about Personal Stuff:
 👨‍🎓 I'm a MCA Student
@@ -14,8 +10,7 @@ Talking about Personal Stuff:
 🌱 I'm currently learning:
 Data Structures and Algorithms on LeetCode
 Tools and technologies from React ecosystem
-📬 How to reach me: shrijajha143@gmail.com
-📝 Resume.  
+📬 How to reach me: shrijajha143@gmail.com  
 
 .
 
