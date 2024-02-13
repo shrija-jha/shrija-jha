@@ -1,8 +1,23 @@
 - 👋 Hi, I’m @shrija-jha
-- 👀 I’m interested in developing web pages...
-- 🌱 I’m currently learning angular...
-- 💞️ I’m looking to collaborate on...
-- 📫 How to reach me via instagram(shrija_jha22)...
+I am a web developer and dancer. I love developing pages, reading, writing and speaking.
+
+As a web developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+
+That's why I like to make things that make a difference.
+
+GIF
+
+Talking about Personal Stuff:
+👨‍🎓 I'm a MCA Student
+🔭 I’m currently working on JU Query platform
+💬 Ask me about anything, I am happy to help
+🌱 I'm currently learning:
+Data Structures and Algorithms on LeetCode
+Tools and technologies from React ecosystem
+📬 How to reach me: shrijajha143@gmail.com
+📝 Resume.  
+
+.
 
 <!---
 shrija-jha/shrija-jha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
