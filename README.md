@@ -1,21 +1,31 @@
-- 👋 Hi, I’m @shrija-jha
-I am a web developer and dancer. I love developing pages, reading, writing and speaking.
+rajaprerak/README.md
+Coder GIF
 
-As a web developer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
-That's why I like to make things that make a difference.
+Hi there, I am Prerak Raja 👋
+Linkedin Badge Gmail Badge
 
-Talking about Personal Stuff:
-👨‍🎓 I'm a MCA Student
+🎯 Portfolio website: Portfolio
+⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+💻 Things I love
 
-🔭 I’m currently working on JU Query platform
+Python 
 
-💬 Ask me about anything, I am happy to help
+Backend Development ✍️
 
-🌱 I'm currently learning:
-Data Structures and Algorithms on LeetCode
-Tools and technologies from React ecosystem
+Machine Learning 🧐
 
-📬 How to reach me: shrijajha143@gmail.com  
+Data Science 😬
+
+
+🛠Tech Stack
+
+Python Django Flask HTML5 CSS3
+
+Bootstrap MySQL GitHub Linux Heroku
+
+Tensorflow PyTorch OpenCV AWS Git
+
+Show some  ❤️  by starring some of the repositories! 
 
 .
 
