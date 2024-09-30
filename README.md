@@ -17,6 +17,8 @@ Tools and technologies from React ecosystem
 
 📬 How to reach me: shrijajha143@gmail.com
 
+Portfolio := https://portfolio-8wa8rpryv-shrija-jhas-projects.vercel.app/
+
 .
 
 <!---
